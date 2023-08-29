@@ -1,6 +1,6 @@
 # EN3160: Image Processing and Machine Vision Repository
 
-> **Student Information**
+## **Student Information**
 
 > Name: Randika Perera
 
